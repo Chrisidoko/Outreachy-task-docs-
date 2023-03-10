@@ -1,2 +1,2 @@
-# Outreachy-task-docs-
+# Outreachy-task-docs
 Warm up exercises
